@@ -1,0 +1,6 @@
+{
+  "name": "Top Sushi - Japanese Sushi & Korean Grill",
+  "description": "Experience premium sushi, sashimi, specialty rolls, and authentic Korean BBQ crafted fresh for every order at Top Sushi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
